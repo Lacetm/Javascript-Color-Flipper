@@ -1,0 +1,12 @@
+#painel{
+    height: 300px;
+    width: 300px;
+
+    background-color: red;
+    position: relative;
+}
+#trocar{
+    position: absolute;
+    bottom: 10%;
+    left: 35%;
+}
